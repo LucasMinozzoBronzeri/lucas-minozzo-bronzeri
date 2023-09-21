@@ -1,0 +1,14 @@
+.personal-data h1{
+    font-size: 2rem;
+    color: #061004;
+    border-width: 1px;
+    border-style: solid;
+    border-color: #3005;
+    background-color: blue;
+    
+}
+.personal-data{
+    background-image: url('https://1.bp.blogspot.com/-yaV_KphEhAk/XYN95uqm2TI/AAAAAAAAedM/deq6mQZYWdg3nDxGUadtMtRDFrVLTO3iwCLcBGAsYHQ/w1200-h630-p-k-no-nu/Arsenal-2003-2004.jpg');
+    background-size: contain;
+    background-repeat: repeat-y;
+}
